@@ -1,4 +1,4 @@
-# Docker GitRepoProfileAPI-2
+# RepoProfileAPI
 
 ## Overview
 
