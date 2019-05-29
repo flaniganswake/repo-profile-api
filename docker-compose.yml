@@ -1,0 +1,10 @@
+version: '3'
+services:
+  app:
+    image: flaniganswake/repo-profile-app
+    container_name: repo_profile_app
+    build: .
+    volumes:
+      - .:/code
+    ports:
+      - "5000:5000"
